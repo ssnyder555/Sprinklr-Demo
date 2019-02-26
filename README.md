@@ -4,6 +4,8 @@
 
 ## About the Project
 
+- Trello Link https://trello.com/b/Suk1Pdc8/email-tasking
+
 - we want to help the user sort emails based on importance
 
 - we want the user to be able to find emails related in topics in specific folders
@@ -47,7 +49,7 @@ When you open your inbox, click on the gear symbol in the upper right corner and
 
 3. Setting up catch filters to avoid spam
 
-## Note this is a fine tuning process. You should continue to check this folder.
+#### Note this is a fine tuning process. You should continue to check this folder.
 
 - Unsubscribing from every newsletter and marketing email that arrives in your inbox manually is an epic waste of time when you can get Gmail to do it for you automatically.
 
