@@ -27,4 +27,4 @@ When you open your inbox, click on the gear symbol in the upper right corner and
 
 - Priority Inbox: This is like a combination of all of the views. Gmail uses predictive analysis to determine which emails you’re most likely to interactive with based on past actions. It then puts those emails into the top view.
 
-![alt text](/img/register.png)
+![alt text](/img/window1.png)
