@@ -33,13 +33,57 @@ When you open your inbox, click on the gear symbol in the upper right corner and
 
 - On the left side of your inbox, you’ll notice a list of labels to which you can add emails to help keep your inbox organized. But did you know you can create custom labels in this area too?
 
-If you select a message or several messages, you can click on the button at the top of your inbox that looks like a shopping tag.This allows you to assign those messages to predefined labels that Gmail uses to keep your inbox organized.
+- If you select a message or several messages, you can click on the button at the top of your inbox that looks like a shopping tag.This allows you to assign those messages to predefined labels that Gmail uses to keep your inbox organized.
 
-You can also create custom labels in this area by selecting “Create new.” You even have the option to nest labels within other labels, similar to creating subfolders when saving files on your hard drive.
+- You can also create custom labels in this area by selecting “Create new.” You even have the option to nest labels within other labels, similar to creating subfolders when saving files on your hard drive.
 
-You even have the option of color-coding your labels to further distinguish priority. For instance, you might select red for a label called VIP to which you archive all messages from your boss.
+- You even have the option of color-coding your labels to further distinguish priority. For instance, you might select red for a label called VIP to which you archive all messages from your boss.
 
-One you create a label, you’ll notice it adds a folder in the list on the left of your inbox and adds the label name next to the subject line. Now, when you archive this message, it will be moved to that specific folder.
+- One you create a label, you’ll notice it adds a folder in the list on the left of your inbox and adds the label name next to the subject line. Now, when you archive this message, it will be moved to that specific folder.
+
+- By customizing your options, it makes it easier to organize your Gmail folders and keep your inbox clean.
+
 ![alt text](/img/window2.png)
 
-By customizing your options, it makes it easier to organize your Gmail folders and keep your inbox clean.
+3. Setting up catch filters to avoid spam
+
+## Note this is a fine tuning process. You should continue to check this folder.
+
+- Unsubscribing from every newsletter and marketing email that arrives in your inbox manually is an epic waste of time when you can get Gmail to do it for you automatically.
+
+- This filter tells Gmail to send those messages to the trash, by watching for the word "unsubscribe" in the body of the email:
+
+- Click the down arrow in Gmail’s search bar to open the create filter form.
+In the “Has the words” field, type unsubscribe.
+Click the “Create filter with this search” link.
+Check the box next to “Delete it.”
+Click the “Create filter” button.
+Now, any email that contains the word unsubscribe—which will cover the majority of the newsletters and marketing emails you receive—will be automatically sent to your trash folder.
+
+-If you find that this filter isn’t catching everything, expand it to include other words that are commonly found in newsletters and marketing emails. Open your filter to edit it, and add all of the words you want to filter on, separating each with the OR operator.
+
+
+![alt text](/img/window3.png)
+
+
+## My way of doing it
+
+- Easiest method would be when coming across emails you want to organize click on the three dots
+
+![alt text](/img/window4.png)
+
+- From: Filter emails sent from a specific email address.
+- To: Filter emails sent to a specific email address.
+- Subject: Filter emails that use a specific subject line.
+- Has the words: Filter emails that contain specified keywords.
+- Doesn’t have: Filter emails that don’t contain specified keywords.
+- Has attachment: Filter emails that include an attachment.
+- Don’t include chats: Ignore Hangouts chats when applying filters.
+- Size: Filter emails larger or smaller than a specific size.
+- If you used the “More” option while in a specific email to open the filter creation menu, Gmail automatically fills in the from email address for you:
+
+![alt text](/img/window5.png)
+
+- Decide what you want to do with the email
+
+![alt text](/img/window6.png)
