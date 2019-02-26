@@ -87,3 +87,19 @@ Now, any email that contains the word unsubscribe—which will cover the majorit
 - Decide what you want to do with the email
 
 ![alt text](/img/window6.png)
+
+
+## Technologies
+
+- Gmail
+- Atom
+- HTML
+- CSS
+- JavaScript
+
+## Resources
+
+- https://bombbomb.com/blog/organize-gmail-inbox-guide/
+- https://zapier.com/blog/gmail-filters/#Delete
+- Google
+- Gmail Guide
