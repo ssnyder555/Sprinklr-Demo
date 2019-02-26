@@ -26,3 +26,5 @@ When you open your inbox, click on the gear symbol in the upper right corner and
 - Starred First: Your Starred First view also splits your inbox into two fields and displays only the emails you’ve starred in the top view. Everything else appears in the second view below
 
 - Priority Inbox: This is like a combination of all of the views. Gmail uses predictive analysis to determine which emails you’re most likely to interactive with based on past actions. It then puts those emails into the top view.
+
+![alt text](/img/register.png)
